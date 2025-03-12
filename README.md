@@ -18,6 +18,7 @@
 5. Добавьте новый тег на коммит с рабочим сценарием в соответствии с семантическим версионированием.
 
 ![Тест](https://github.com/Markin-AI/ans-05/blob/main/img/1.png)
+
 [Коммит с Molecule](https://github.com/Markin-AI/vector-role/commit/2b6b88970107cf2dd5e4537498da85827cee60d0)
 
 ### Tox
